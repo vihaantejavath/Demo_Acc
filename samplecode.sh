@@ -1,1 +1,3 @@
-echo "Welcome to the demo project - vihaan"
+echo "Welcome to the demo project"
+
+echo "- vihaan"
